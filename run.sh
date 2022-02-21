@@ -1,0 +1,1 @@
+python -u main.py --dataset 'pubmed' --lr 0.01 --seed 0 --hidden_layers 1 --hidden_dim 64 --train_iter 1000 --test_iter 1 --use_saved_model False --nheads 8 --alpha 0.2 --dropout 0.60 --w_decay 0.001 --device 'cuda:0' | tee ouput.txt 
