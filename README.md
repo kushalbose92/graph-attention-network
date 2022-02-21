@@ -1,1 +1,1 @@
-# graph-attention-network
+# Graph Attention Network --- Pytorch Implemntation
